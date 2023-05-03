@@ -40,6 +40,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={html}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -63,6 +65,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={css}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -86,6 +90,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={javascript}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -109,6 +115,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={react}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -132,6 +140,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={typescript}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full mt-[-15px] object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -155,6 +165,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={nextjs}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-24 h-20 xl:w-20 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -178,6 +190,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={python}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -201,6 +215,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={djangoo}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -224,6 +240,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={websocket}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -247,6 +265,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={psql}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -270,6 +290,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={git}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -293,6 +315,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={postman}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -316,6 +340,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={tailwind}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -339,6 +365,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={bootstrap}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
@@ -362,6 +390,8 @@ function Skill({ directionLeft }: Props) {
           }}
           src={material}
           alt=""
+          height={100}
+          width={100}
           className="rounded-full object-cover w-20 h-20 xl:w-24 xl:h-24 md:w-28 md:h-28 filter group-hover:grayscale transition duration-300 ease-in-out"
         />
         <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-in-out group-hover:bg-white h-20 w-20 md:w-28 md:h-28 xl:w-24 xl:h-24 rounded-full z-0">
