@@ -93,7 +93,7 @@ function ExperienceCard({}: Props) {
         <ul className="list-disc space-y-4 ml-2 text-sm xl:text-lg md:text-lg">
             <li>From here i had learned both Frontend and Backend.</li>
             <li>The technologies HTML,CSS,JavaScript,ReactJs,NextJs,Typescript,Django etc...</li>
-            <li>I've done Fully responsive Ecommerce web site, Frontend react and backend Django.</li>
+            <li>I&apos;ve done Fully responsive Ecommerce web site, Frontend react and backend Django.</li>
             <li>Included advance technologies.</li>
         </ul>
       </div>

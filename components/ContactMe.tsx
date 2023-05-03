@@ -1,5 +1,4 @@
 import React from "react";
-import { BeakerIcon } from "@heroicons/react/24/solid";
 import { useForm, SubmitHandler } from "react-hook-form";
 
 type Props = {};
@@ -67,7 +66,7 @@ function ContactMe({}: Props) {
                 clipRule="evenodd"
               />
             </svg>
-            <p>Gudalur Nilgiri's</p>
+            <p>Gudalur Nilgiri&apos;s</p>
           </div>
         </div>
         <form
