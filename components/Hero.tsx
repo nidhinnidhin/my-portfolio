@@ -25,7 +25,8 @@ function Hero({}: Props) {
       <Image
         className="relative rounded-full h-32 w-32 mx-auto object-cover"
         src={profile}
-        alt=""
+        alt="image"
+        priority="high"
       />
       <div className="z-20">
         <h2 className="text-sm uppercase text-gray-500 pd-2 tracking-[15px]">

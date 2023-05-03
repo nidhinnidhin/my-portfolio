@@ -32,6 +32,8 @@ function About({}: Props) {
           duration: 1.2,
         }}
         className="-mb-20 md:mb-0 flex-shrink-0 w-66 h-66 rounded-full object-cover md:rounded-lg md:w-80 md:h-100 xl:w-[400px] xl:h-[500px] "
+        alt="image"
+        priority="high"
       />
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">Here is a <span className="underline decoration-[#F7AB0A]/50">little</span>{" "} background</h4>
