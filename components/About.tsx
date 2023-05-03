@@ -38,7 +38,7 @@ function About({}: Props) {
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">Here is a <span className="underline decoration-[#F7AB0A]/50">little</span>{" "} background</h4>
         <p className="text-base">
-          I'm Nidhin,<AppleIcon className="text-red-800 h-6 w-6 mb-1"/>here's little bit about me...i've always been interested in Web Development,And i've neccessary skills required for the role.i've been coding for over 1.5 years now.As a Full Stack Developer i've worked with real projcts like Ecommerce.I have a good understanding of HTML, CSS, Java Script, React JS, Next JS, TypeScript, Tailwind CSS, Bootstrap, Python, Django...<AutoAwesomeIcon className="text-yellow-300 h-6 w-6 mb-1"/>
+          I&apos;m Nidhin,<AppleIcon className="text-red-800 h-6 w-6 mb-1"/>here&apos;s little bit about me...i&apos;ve always been interested in Web Development,And i&apos;ve neccessary skills required for the role.i&apos;ve been coding for over 1.5 years now.As a Full Stack Developer i&apos;ve worked with real projcts like Ecommerce.I have a good understanding of HTML, CSS, Java Script, React JS, Next JS, TypeScript, Tailwind CSS, Bootstrap, Python, Django...<AutoAwesomeIcon className="text-yellow-300 h-6 w-6 mb-1"/>
         </p>
       </div>
     </div>
