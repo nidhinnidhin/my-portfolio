@@ -11,7 +11,7 @@ function Skill({}: Props) {
     <div className="grid grid-cols-3 xl:grid-cols-4 md:grid-cols-4 xl:gap-5 md:gap-3 gap-5">
       {SkillDatas.map((data) => {
         return (
-          <div className="group relative flex cursor-pointer">
+          <div key={data.id} className="group relative flex cursor-pointer">
             <ImageWithMotion
               initial={{
                 opacity: 0,

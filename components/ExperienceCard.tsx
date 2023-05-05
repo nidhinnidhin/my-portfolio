@@ -40,28 +40,28 @@ function ExperienceCard({}: Props) {
         <p className="font-bold text-2xl xl:text-4xl mt-1">CROSSROADS</p>
         <div className="flex space-x-1 md:space-x-2 xl:space-x-2 my-2">
           <Image 
-          className=" rounded-full object-contain"
+          className="rounded-full object-contain"
           src={html}
           height={30}
           width={30}
           alt=""
           />
           <Image 
-          className=" rounded-full object-contain"
+          className="rounded-full object-contain"
           src={css}
           height={30}
           width={30}
           alt=""
           />
           <Image 
-          className=" rounded-full object-contain"
+          className="rounded-full object-contain"
           src={javascript}
           height={30}
           width={30}
           alt=""
           />
           <Image 
-          className=" rounded-full object-contain"
+          className="rounded-full object-contain"
           src={react}
           height={35}
           width={35}
@@ -75,14 +75,14 @@ function ExperienceCard({}: Props) {
           alt=""
           />
           <Image 
-          className=" rounded-full object-contain"
+          className="rounded-full object-contain"
           src={nextjs}
           height={35}
           width={35}
           alt=""
           />
           <Image 
-          className=" rounded-full object-contain"
+          className="rounded-full object-contain"
           src={python}
           height={30}
           width={30}
