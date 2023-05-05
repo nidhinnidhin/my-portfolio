@@ -39,31 +39,31 @@ export const SkillDatas = [
     },
     {
         image: javascript,
-        percentage: "90"
+        percentage: "85"
     },
     {
         image: python,
-        percentage: "90"
+        percentage: "80"
     },
     {
         image: react,
-        percentage: "90"
+        percentage: "85"
     },
     {
         image: django,
-        percentage: "90"
+        percentage: "80"
     },
     {
         image: psql,
-        percentage: "90"
+        percentage: "80"
     },
     {
         image: nextjs,
-        percentage: "90"
+        percentage: "85"
     },
     {
         image: typescript,
-        percentage: "90"
+        percentage: "85"
     },
     {
         image: git,
@@ -75,11 +75,11 @@ export const SkillDatas = [
     },
     {
         image: tailwind,
-        percentage: "90"
+        percentage: "85"
     },
     {
         image: bootstrap,
-        percentage: "90"
+        percentage: "85"
     },
     {
         image: material,
