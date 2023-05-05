@@ -38,7 +38,7 @@ function ExperienceCard({}: Props) {
       <div className="px-0 md:px-10 pl-20 w-full">
         <h4 className="text-2xl xl:text-4xl flex font-light">BOOTCAMP Training</h4>
         <p className="font-bold text-2xl xl:text-4xl mt-1">CROSSROADS</p>
-        <div className="flex space-x-2 my-2">
+        <div className="flex space-x-1 md:space-x-2 xl:space-x-2 my-2">
           <Image 
           className=" rounded-full object-contain"
           src={html}

@@ -23,7 +23,7 @@ function Header({}: Props) {
       }}
       className="flex flex-row items-center">
         <SocialIcon
-          url="https://www.facebook.com"
+          url="https://www.facebook.com/profile.php?id=100074005460414"
           bgColor="transparent"
           fgColor="gray"
         />
