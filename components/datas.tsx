@@ -33,72 +33,72 @@ export const ProjectDatas = [
 export const SkillDatas = [
     {
         image: html,
-        percentage: "90",
+        percentage: "Proficient",
         id:"1"
     },
     {
         image: css,
-        percentage: "90",
+        percentage: "Proficient",
         id:"2"
     },
     {
         image: javascript,
-        percentage: "85",
+        percentage: "Proficient",
         id:"3"
     },
     {
         image: python,
-        percentage: "80",
+        percentage: "Competent",
         id:"4",
     },
     {
         image: react,
-        percentage: "85",
+        percentage: "Proficient",
         id:"5"
     },
     {
         image: django,
-        percentage: "80",
+        percentage: "Proficient",
         id:"6"
     },
     {
         image: psql,
-        percentage: "80",
+        percentage: "Competent",
         id:"7"
     },
     {
         image: nextjs,
-        percentage: "85",
+        percentage: "Proficient",
         id:"8"
     },
     {
         image: typescript,
-        percentage: "85",
+        percentage: "Proficient",
         id:"9"
     },
     {
         image: git,
-        percentage: "90",
+        percentage: "Expert",
         id:"10"
     },
     {
         image: postman,
-        percentage: "90",
+        percentage: "Proficient",
         id:"11"
     },
     {
         image: tailwind,
-        percentage: "85",
+        percentage: "Proficient",
         id:"12"
     },
     {
         image: bootstrap,
-        percentage: "85",
+        percentage: "Proficient",
         id:"13"
     },
     {
         image: material,
-        percentage: "90",
+        percentage: "Proficient",
         id:"14"
     },
 ]
