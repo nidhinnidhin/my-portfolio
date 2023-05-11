@@ -33,7 +33,7 @@ function Header({}: Props) {
           fgColor="gray"
         />
         <SocialIcon
-          url="https://www.github.com/nidhinnidhin"
+          url="https://github.com/nidhinnidhin?tab=repositories"
           bgColor="transparent"
           fgColor="gray"
         />
